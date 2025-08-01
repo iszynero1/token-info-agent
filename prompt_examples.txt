@@ -1,0 +1,8 @@
+What's the price of SOL?
+Expected output: Current price of 1 SOL: [price] USD (Last updated at: [timestamp])
+
+How much is 1 ETH in EUR?
+Expected output: Current price of 1 ETH: [price] EUR (Last updated at: [timestamp])
+
+Show me NEAR price
+Expected output: Current price of 1 NEAR: [price] USD (Last updated at: [timestamp])
