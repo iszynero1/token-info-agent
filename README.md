@@ -13,4 +13,4 @@ An autonomous agent that fetches real-time cryptocurrency prices using natural l
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/[your-username]/token-info-agent.git
+git clone https://github.com/iszynero1/token-info-agent.git
